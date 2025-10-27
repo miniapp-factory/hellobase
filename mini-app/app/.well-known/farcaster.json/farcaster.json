@@ -1,0 +1,20 @@
+{
+  "frame": {
+    "name": "Effortlessly created by OpenX",
+    "version": "1",
+    "iconUrl": "https://hellobase.miniapp-factory.marketplace.openxai.network/icon.png",
+    "homeUrl": "https://hellobase.miniapp-factory.marketplace.openxai.network",
+    "imageUrl": "https://hellobase.miniapp-factory.marketplace.openxai.network/image.png",
+    "splashImageUrl": "https://hellobase.miniapp-factory.marketplace.openxai.network/splash.png",
+    "splashBackgroundColor": "#6200EA",
+    "webhookUrl": "https://hellobase.miniapp-factory.marketplace.openxai.network/api/webhook",
+    "subtitle": "Effortlessly created by OpenX",
+    "description": "Thanks to https://miniapp-factory.marketplace.openxai.network/, you can create apps very easily with artificial intelligence.",
+    "primaryCategory": "developer-tools"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjk5Mjk1NiwidHlwZSI6ImF1dGgiLCJrZXkiOiIweEQ3NDk0NGY3MEU1MTE2RDZBMkU2NjQzN2U1OGQ0MTYxYUVBMTRBYjAifQ",
+    "payload": "eyJkb21haW4iOiJoZWxsb2Jhc2UubWluaWFwcC1mYWN0b3J5Lm1hcmtldHBsYWNlLm9wZW54YWkubmV0d29yayJ9",
+    "signature": "ANcTL7aA0Sgm8aa+SrNweJPY+BnyPMMzIJ5ucMvag1YVcMS4ejYQobWShkgwLNzl0/2Vch4CMQmhqskXIeYU4Bw="
+  }
+}
